@@ -1,5 +1,6 @@
 # BugFix ID List
 
-| ID | Description |
-|---|---|
-| Bugfix_hc0 | Fix for the Bug In HeschyCrypt: Text needs to be longer then the Password. |
+## Bugfix_hc0
+Repo: HeschyCrypt
+Bug: If Password > Text, HeschyCrypt won't use the full Password
+Fixed: Not yet
