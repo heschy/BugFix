@@ -6,7 +6,7 @@
 |---|---|
 | Repository | HeschyCrypt |
 | Bug | If Text < Password the encryption won't work |
-| Fixed | Not yet |
+| Fixed | Yes |
 
 ## Bugfix_hc1
 
