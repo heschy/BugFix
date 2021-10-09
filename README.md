@@ -4,6 +4,6 @@
 
 | Key | Value |
 |---|---|
-| Repo | HeschyCrypt |
+| Repository | HeschyCrypt |
 | Bug | If Password > Text, HeschyCrypt won't use the full Password |
 | Fixed | Not yet |
