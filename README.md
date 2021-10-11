@@ -19,6 +19,7 @@
 | Fixed | Not yet |
 
 ## Bugfix Family `STLIB` (StarTrek-LIBrary)
-There are no known bugfixes in this Family
+There are no known bugfixes in this Family.
 
-## ## Bugfix Family `STLIBNGUI` (StarTrek-LIBrary-NoGUI)
+## Bugfix Family `STLIBNGUI` (StarTrek-LIBrary-NoGUI)
+There are no known bugfixes in this Family.
